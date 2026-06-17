@@ -32,6 +32,10 @@
 9. Создание новой ветки feature/readme-update
 10. Добавление в README нового раздела на ветке feature/readme-update
 11. Первый коммит на ветке feature/readme-update
+12. Слияние веток feature/readme-update и main
+13. Изменение README через GitHub 
+14. Fetch, а затем pull изменений
+15. 
 
 
 ## Использованные Git-действия
